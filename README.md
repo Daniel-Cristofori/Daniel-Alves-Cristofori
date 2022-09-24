@@ -1,5 +1,5 @@
 ## Olá sou o Daniel, estudante de programação e tecnologia!
-<div style=align: "center">
+<div align="center">
   <a href="https://github.com/Trovao136">
   <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api?username=Trovao136&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trovao136&layout=compact&langs_count=7&theme=algolia"/>
