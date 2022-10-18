@@ -1,8 +1,8 @@
 ## Olá sou o Daniel, estudante de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/Trovao136">
-  <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api?username=Trovao136&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trovao136&layout=compact&langs_count=7&theme=algolia"/>
+  <a href="https://github.com/Daniel-Alves-Cristofori">
+  <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api?username=Daniel-Alves-Cristofori&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="display: inline_block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Alves-Cristofori&layout=compact&langs_count=7&theme=algolia"/>
 
 </div>
 
